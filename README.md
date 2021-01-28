@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2 align="left">Hello Folks, I'm <strong>Vineeth Rai K ( ⌐■_■) </strong></h2>
+ 
+ <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
+
+<p align="left"><strong> Programer,Problem solver | IOT enthusiast </strong></p> <br>
+<h2 align="left"> ABOUT ME</h2>
+<p align="left"><strong>Techworm , sleepalcoholic and semi workalcoholic  .</strong></p> <br>
+	 
+<p align="left"> Visitor count
+	<br>
+  <img src="https://profile-counter.glitch.me/Vineethraik/count.svg" />
+</p>
+
+<h2 align="center"><strong>Wanna Hire Me!</strong></h2>
+<p align="center">
+  <a href="https://github.com/Vineethraik?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vineethraik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  logoColor=white" alt="LinkedIn"></a>	  	  
+</p>
+
+<!-- ### Connect with me: -->
+
+<br />
+
+---
+
+<img align="center" alt="Vineeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vineethraik&show_icons=true&hide_border=true" />
+
+ 
+

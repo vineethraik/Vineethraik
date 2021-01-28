@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Vineethraik?tab=followers">
     <img src="https://img.shields.io/github/followers/Vineethraik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  logoColor=white" alt="LinkedIn"></a>	  	  
+  	  
 </p>
 
 <!-- ### Connect with me: -->

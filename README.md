@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: expert in 30 hr sleepless project works and 20hr continous sleep
+
 <!--
 **vineethraik/Vineethraik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

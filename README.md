@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/Vineethraik/count.svg" />
 </p>
 
-<h2 align="center"><strong>Wanna Hire Me!</strong></h2>
+<h2 align="center"><strong></strong></h2>
 <p align="center">
   <a href="https://github.com/Vineethraik?tab=followers">
     <img src="https://img.shields.io/github/followers/Vineethraik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
